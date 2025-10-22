@@ -1,0 +1,9 @@
+{
+	"name": "df-mani-project",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9207de8a-29c4-4fa1-b02d-8d4d62786e37",
+		"tenantId": "edfe125e-1650-40de-8fa6-68a7f449fe84"
+	}
+}
